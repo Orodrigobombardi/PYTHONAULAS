@@ -14,3 +14,6 @@ print("multiplicacao", multiplicacao)
 
 print(10 % 8 == 0 )
 
+
+
+
